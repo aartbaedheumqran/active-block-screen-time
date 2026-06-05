@@ -33,15 +33,15 @@ In our prototype testing, the showcase data showed users cutting daily screen ti
 - Live demo: https://active-block-v2.vercel.app
 - Research slides: https://docs.google.com/presentation/d/1UJzZA4JgpPEobLWUtJKIoBjGgeFb6QUfB-GbX-_u2PU/edit?usp=sharing
 
-## Approved Visuals for the GitHub Page
+## Project Visuals
 
-The exact screenshots for the public repo should be the three polished images from the capstone materials:
+These are the polished capstone visuals we use for the public repo instead of random debug screenshots.
 
-- `assets/screenshots/group-challenge.png` - the Squad Up group challenge screen.
-- `assets/screenshots/research-results.png` - the blue screen-time reduction results slide.
-- `assets/screenshots/home-overview.png` - the mobile home overview with the tower/streak card.
+![Squad Up group challenge screen](assets/screenshots/group-challenge.png)
 
-Those files are intentionally not included yet because the chat attachments were not available as local files in this workspace. Do not replace them with random local app screenshots.
+![Screen-time reduction results slide](assets/screenshots/research-results.png)
+
+![Home overview and tower screen](assets/screenshots/home-overview.png)
 
 ## Backend Summary
 
